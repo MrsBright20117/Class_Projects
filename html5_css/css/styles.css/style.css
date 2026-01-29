@@ -58,3 +58,8 @@ main img {
     border-radius: 20px;
 }
 
+footer {
+    padding: 40px 0;
+    text-align: center;
+    border-top: 4px solid #759E9C;
+}
